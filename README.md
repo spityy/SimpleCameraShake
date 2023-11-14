@@ -18,4 +18,4 @@ https://www.roblox.com/library/15341610949/SimpleCameraShake
 
 # Showcase:
 
-https://github.com/spitxy/SimpleCameraShake/blob/8f9437339e2b72370eec1d6d415b6ed58af23ca6/CameraShakeShowcase.mp4
+https://github.com/spityy/SimpleCameraShake/raw/main/CameraShakeShowcase.mp4
